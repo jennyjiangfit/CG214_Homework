@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<head>
+    How to Apply Makeup
+</head>
+<body>
+
+    <h1>How to Apply Makeup</h1>
+    <h2>This is your guide!</h2>
+
+    <p>
+        Welcome to Jenny's Make up guide, a modern, open-source, editorial web sight. It's a 
+    powerful visual tool into getting you the wanted look.
+    </p>
+
+
+    <h3>What you need!</h3>
+    <p>
+        In order to create your own look using makeup, you must buy needed tooks
+    </p>
+
+    <ul>
+        <li>Eye Shadow Brushes</li>
+        <li>Eye Peachy Eye Shadow</li>
+        <li>Eye Lash Curler</li>
+        <li>Mascara</li>
+        <li>Eye Liner</li>
+        <li>Eye Shadow Primer</li>
+    </ul>
+
+
+    <h3>If you go to school at FIT here is a location</h3>
+
+    <iframe src="https://www.google.com/maps/dir/Fashion+Institute+of+Technology,+227+W+27th+St,+New+York,+NY+10001/SEPHORA,+200+W+42nd+St,+New+York,+NY+10036/@40.7522179,-73.9942044,16z/data=!4m13!4m12!1m5!1m1!1s0x89c259afbb64db0d:0x863a71d6d4af1f09!2m2!1d-73.995082!2d40.747484!1m5!1m1!1s0x89c25854d379fdaf:0xaa29a2f5f30912e!2m2!1d-73.9876286!2d40.7561873" width= "600" height= "450" style="border:0" allowfullscreen>
+    </iframe>
+
+    <h3>Let's Watch a Tutorial</h3>
+    
+    <video poster= "C:/Users/Jenny_Jiang/Desktop/peach-eyeshadow.jpg"
+           width= "720" height= "485" preload loop controls>
+        <sorce src= "https://youtu.be/pgMzxuQyW2c" />
+    </video>
+    
+    <h3>Follow the video and create your best peachy eyed look</h3>
+    <p>This look is a great everyday look! For a more nightout eyeshadow look, you can intensify it  by adding eyeliner and a more smokey eyed peachy look.This look is simple and fun!</p>
+    <p>Catch You Later ;) </p>
+    
+    <audio controls audoplay loop>
+        <source src="I am not too sure how to do this lol"
+    </audio>
