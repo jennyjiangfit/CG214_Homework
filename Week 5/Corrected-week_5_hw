@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title>Google I/O Experiments Challenge</title>
+        <style type="text/css">
+        
+            body {
+                background-color: lightcyan;
+                
+                font-family: "Chalkboard";
+                
+                font-size:12px;
+            }
+        </style>
+        
+           
+    </head>
+    
+    <body>
+        
+        <h1>Google I/O Experiments Challenge</h1>
+        
+        <p>Win a trip to Google I/O 2017. Submit your Chrome, Android or AI experiments now until April 13.</p>
+        
+        <form>
+            <p>Name: </p>
+            <input type="text" placeholder="First Name" required>
+            <br/>
+            <br/>
+            <input type="text" placeholder="Last Name" required>
+        </form>
+        
+        <hr/>
+        
+        <form>
+            <p>Username and password:</p>
+            <input type="text" placeholder="Username">
+            <br/>
+            <br/>
+            <input type="password" placeholder="Password">
+        </form>
+        
+        <form>
+            <p>Introduce your Experiment: </p>
+            <textarea placeholder="Tell us your feedback about our product..."></textarea>
+        </form>
+        
+        <form>
+            <p>Choose the tecnology used:<p>
+            <select>
+            
+                <option>Chromecast<option/>
+                <option>Microphone Inpute<option/>
+                <option>Motion Control<option/>
+                <option>Native Client<option/>
+                <option>Speech Recognition<option/>
+                
+            </select>
+        </form>
+            <p>Choose the main theme of your experient:
+        
+        <br/>
+        <br/>
+        <form>
+            <input type="radio" name="3D">3D
+            <br/>
+            <input type="radio" name="Academic">Academic
+            <br/>
+            <input type="radio" name="Drawing and Painting">Drawing and Painting 
+            <br/>
+            <input type="radio" name="Games">Games
+            <br/>
+            <input type="radio" name="Geographic">Geographic
+            <br/>
+            <input type="radio" name="Sound and Music">Sound and Music
+            <br/>
+             <input type="radio" name="Video">Video
+            <br/>
+            
+        </form>
+        <br/>
+        <br/>
+        
+        <form>
+            <input type="checkbox">Send me a copy of my submition
+        </form>
+        <p>Email</p>
+            <input type="text" placeholder="Email">
+        
+        <button>Submit </button>
+        
+        
+    </body>
+    
+</html>
