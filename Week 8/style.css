@@ -1,0 +1,75 @@
+-<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>My Style Site</title>
+        
+        <link href= "style.css" type="text/css" rel="stylesheet">
+        <style type:"text/css">
+        
+            body{
+                background-color: #bf4040;
+                
+                background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAATklEQVQoU2N8aGNTz8DAwCB/5EgjiMYFGIlWiM2EhzftILaoH4LbwkiRQmyaGfcmRICtcV6wAr9niFaIzZrPM+PAtvCmL8LvGaIVYrMFAMbNIAukBnSlAAAAAElFTkSuQmCC
+                )
+                
+            }  
+            #head{
+                font-size: 100pt;
+                font-family: trebuchet, Arial, serif;
+                background-color: navajowhite;
+                color: #bf4040;
+                
+            }
+            #list{
+                font-size: 15pt;
+                
+            }
+            
+            #number one{
+                font-size: 75px;
+               
+            }
+            #number two{
+                font-size: 75px;
+                
+            }
+            #number three{
+                font-size: 75px;
+                
+            }
+            #number four{
+                font-size: 75px;
+                
+            }
+            p{
+                font-size: 15p;
+                
+                background:
+                url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAE0lEQVQYV2O8GuoykwEJMJIuAABG5wghOoOzBAAAAABJRU5ErkJggg==
+                )
+                
+            }
+            #table{
+                background:
+                url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAE0lEQVQYV2N8YCR1hgEJMJIuAAA8pQflGEpMDAAAAABJRU5ErkJggg==
+                )
+            }
+            ul{
+                background:
+                url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAE0lEQVQYV2N8YCR1hgEJMJIuAAA8pQflGEpMDAAAAABJRU5ErkJggg==
+                )
+            }
+            
+            a:visited {
+                color: blue;
+                background-color: transparent;
+                text-decoration: none;
+            }
+            a:hover {
+                color: red;
+                background-color: transparent;
+                text-decoration: underline;
+            }
+        
+        </style>
